@@ -1,16 +1,14 @@
-## Hi there 👋
+# mrwyrd
 
-<!--
-**mrwyrd/mrwyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent AI systems builder researching governed continual learning,
+agent infrastructure, and production software.
 
-Here are some ideas to get you started:
+## Current research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TTETT — Today’s Technology Empowering Tomorrow’s Technology
+
+A Continuant Learning Runtime for provenance-preserving, scope-bounded,
+authority-aware adaptation.
+
+- Research repository: [mrwyrd/ttett](https://github.com/mrwyrd/ttett)
+- Project website: [ttett.com](https://www.ttett.com)
