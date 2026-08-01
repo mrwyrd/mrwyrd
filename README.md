@@ -1,6 +1,6 @@
 # mrwyrd
 
-Independent AI systems builder researching governed continual learning,
+Independent AI systems builder developing governed learning systems,
 agent infrastructure, and production software.
 
 ## Current research
@@ -12,3 +12,5 @@ authority-aware adaptation.
 
 - Research repository: [mrwyrd/ttett](https://github.com/mrwyrd/ttett)
 - Project website: [ttett.com](https://www.ttett.com)
+
+Beyond TTETT, I build governed AI development infrastructure and production software for businesses, operators, and domain-specific organizations.
